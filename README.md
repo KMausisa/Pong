@@ -8,7 +8,7 @@ I wanted to learn Unity and create a simple game to understand how to use the so
 
 Below is a link to my demo video:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sZkLUkZSKYc)
 
 # Development Environment
 
